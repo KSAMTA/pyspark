@@ -1,0 +1,9 @@
+output/
+*.parquet
+*.crc
+_SUCCESS
+nyc_collisions.csv
+taxi_zone_lookup.csv
+venv/
+.env
+__pycache__/
